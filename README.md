@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Harjul, a full stack dev and poject manager <br>
+<p align="left">I'm Harold AVADEME, a full stack dev and project manager <br>
   </p>
 
 ###
